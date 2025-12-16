@@ -43,8 +43,8 @@ $setoresPorLocal = @{
     "CTEC" = @(
         @{Codigo = "LPO"; Nome = "Laboratorio de Pesquisa Operacional - DEP"},
         @{Codigo = "LMA"; Nome = "Laboratorio de Modelagem Ambiental - LMA"},
-		@{Codigo = "LI2"; Nome = "Laboratorio de Informatica Aplicada I - DEP"},
-		@{Codigo = "LI1"; Nome = "Laboratorio de Informatica Aplicada II - DEP"}          
+		@{Codigo = "LI1"; Nome = "Laboratorio de Informatica Aplicada I - DEP"},
+		@{Codigo = "LI2"; Nome = "Laboratorio de Informatica Aplicada II - DEP"}          
     )
     "Galinheiro" = @(
         @{Codigo = 1250; Nome = "AINDA SEM CADASTRO"},
